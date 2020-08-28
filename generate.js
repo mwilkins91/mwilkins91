@@ -40,5 +40,7 @@ I love to hack away on things. If you would like to colaborate, please drop me a
 
 Ps. Big thanks to [@BeckyPollard](https://github.com/BeckyPollard) for the readme design inspiration!
 
+----
+
 ${skills}
 `)
