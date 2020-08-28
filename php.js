@@ -28,6 +28,7 @@ const php_learning = [
 const php_section = pad(`
 ### PHP
 
+
 While I am familiar with PHP, it's not my favorite language. Often my use of it is related to environmental constraints (ex. hosting a site on a PHP enabled cPanel/apache type service), ease of use, or legacy code. 
 ${t({
   logo: 'php',
