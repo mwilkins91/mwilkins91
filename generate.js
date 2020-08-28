@@ -19,7 +19,9 @@ console.log(`
 
 ## Who?
 My name is Mark Wilkins, a software developer from Toronto Canada. 
-I love animals, tech, food, games, helping people, and travel. Many of my projects focus on one (or more!) of these things!
+I love animals, tech, food, games, helping people, and travel. Not necessarily in that order!
+
+Many of my projects focus on one (or more!) of these things!
 
 
 ## What?
