@@ -9,7 +9,7 @@ Many of my projects focus on one (or more!) of these things!
 
 ## What?
 
-I work at [Prodigy Education](https://www.prodigygame.com/) and [The Toronto Humane Society](https://www.torontohumanesociety.com/).
+I work at [WealthSimple](https://www.wealthsimple.com/en-ca/) and [The Toronto Humane Society](https://www.torontohumanesociety.com/).
 
 I love to hack away on things. If you would like to colaborate, please drop me a line! You'll find some of my skills/interests below.
 
